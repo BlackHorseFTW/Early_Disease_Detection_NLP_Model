@@ -1,11 +1,11 @@
-case_num,disease
-0,Arrhythmia 
-1,Irritable Bowel Syndrome (IBS) 
-2,Perimenopause 
-3,Peptic Ulcer Disease (PUD) 
-4,Generalized Anxiety Disorder 
-5,Panic Disorder 
-6,Pleurisy 
-7,Polycystic Ovary Syndrome (PCOS) 
-8,clinical depression
-9,Migraine 
+case_num,disease,No of people affected per year(in millions)
+0,Arrhythmia ,380
+1,Irritable Bowel Syndrome (IBS) ,780
+2,Urinary Tract Infection,150
+3,Peptic Ulcer Disease (PUD) ,390
+4,Generalized Anxiety Disorder ,308
+5,Diabetes,780
+6,Tuberculosis,20
+7,Polycystic Ovary Syndrome (PCOS) ,600
+8,Clinical depression,280
+9,Migraine ,213
