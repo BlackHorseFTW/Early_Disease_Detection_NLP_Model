@@ -62,74 +62,66 @@ feature_num,case_num,feature_text
 401,4,Female
 402,4,Decreased-appetite
 403,4,45-year
-404,5,Onset-5-years-ago
-405,5,Female
-406,5,No-caffeine-use
-407,5,Associated-SOB-OR-Associated-shortness-of-breath
-408,5,Episodes-of-heart-racing
-409,5,Recent-visit-to-emergency-department-with-negative-workup
-500,5,No-chest-pain
-501,5,No-illicit-drug-use
-502,5,Associated-nausea
-503,5,Increased-frequency-recently
-504,5,Associated-feeling-of-impending-doom
-505,5,Episodes-last-15-to-30-minutes
-506,5,Associated-throat-tightness
-507,5,Feels-hot-OR-Feels-clammy
-508,5,Episode-of-hand-numbness-OR-Episode-of-finger-numbness
-509,5,Fatigue-OR-Difficulty-concentrating
-510,5,Increased-stress
-511,5,26-year
-512,6,22 year
-513,6,male
-514,6,fever since 25 days
-515,6,generalised weakness
-516,6,diarrohea
-517,6,increase in temp during evening
-600,6,excessive sweating and chills
-601,6,cough with copius scutum
-602,6,coughing of blood
-603,7,Female
-604,7,Weight-Gain
-605,7,heavy-periods-OR-irregular-periods
-606,7,Last-menstrual-period-2-months-ago
-607,7,Unprotected-Sex
-608,7,Fatigue
-609,7,Infertility-HX-OR-Infertility-history
-610,7,35-year
-611,7,symptoms-for-6-months
-700,8,Increased-appetite
-701,8,Son-died-3-weeks-ago
-702,8,Female
-703,8,Auditory-hallucination-once
-704,8,tossing-and-turning
-705,8,67-year
-706,8,Difficulty-falling-asleep
-707,8,Hallucinations-after-taking-Ambien
-708,8,duration-3-weeks
-800,8,Unsuccessful-napping
-801,8,Sleeping-medication-ineffective
-802,8,Diminished-energy-OR-feeling-drained
-803,8,loss-of-interest
-804,8,Visual-hallucination-once
-805,8,FHx-of-depression-OR-Family-history-of-depression
-806,8,Early-wakening
-807,8,No-suicidal-ideations
-808,8,Difficulty-with-sleep
-809,9,No-relief-with-Motrin-OR-no-relief-with-tylenol
-810,9,20-year
-811,9,1-day-duration-OR-2-days-duration
-812,9,Myalgias
-813,9,Global-headache-OR-diffuse-headache
-814,9,Neck-pain
-815,9,Vomiting
-816,9,No-rash
-817,9,Nausea
-900,9,viral-symptoms-OR-rhinorrhea-OR-scratchy-throat
-901,9,Shares-an-apartment
-902,9,Meningococcal-vaccine-status-unknown
-903,9,Family-history-of-migraines
-904,9,Female
-905,9,Photophobia
-906,9,No-known-illness-contacts
-907,9,Subjective-fever
+404,5,55 year
+405,5,male
+406,5,history of excessive eating
+407,5,excessive thirst
+408,5,excessive urination suring day
+409,5,urination in between night - 3 to 4 times
+500,5,swollen abdomen
+501,5,BMI - 31
+502,5,black discoloration on neck
+503,5,fruity smell on urine
+504,6,22 year
+505,6,male
+506,6,fever since 25 days
+507,6,generalised weakness
+508,6,diarrohea
+509,6,increase in temp during evening
+510,6,excessive sweating and chills
+511,6,cough with copius scutum
+512,6,coughing of blood
+513,7,Female
+514,7,Weight-Gain
+515,7,heavy-periods-OR-irregular-periods
+516,7,Last-menstrual-period-2-months-ago
+517,7,Unprotected-Sex
+600,7,Fatigue
+601,7,Infertility-HX-OR-Infertility-history
+602,7,35-year
+603,7,symptoms-for-6-months
+604,8,Increased-appetite
+605,8,Son-died-3-weeks-ago
+606,8,Female
+607,8,Auditory-hallucination-once
+608,8,tossing-and-turning
+609,8,67-year
+610,8,Difficulty-falling-asleep
+611,8,Hallucinations-after-taking-Ambien
+700,8,duration-3-weeks
+701,8,Unsuccessful-napping
+702,8,Sleeping-medication-ineffective
+703,8,Diminished-energy-OR-feeling-drained
+704,8,loss-of-interest
+705,8,Visual-hallucination-once
+706,8,FHx-of-depression-OR-Family-history-of-depression
+707,8,Early-wakening
+708,8,No-suicidal-ideations
+800,8,Difficulty-with-sleep
+801,9,No-relief-with-Motrin-OR-no-relief-with-tylenol
+802,9,20-year
+803,9,1-day-duration-OR-2-days-duration
+804,9,Myalgias
+805,9,Global-headache-OR-diffuse-headache
+806,9,Neck-pain
+807,9,Vomiting
+808,9,No-rash
+809,9,Nausea
+810,9,viral-symptoms-OR-rhinorrhea-OR-scratchy-throat
+811,9,Shares-an-apartment
+812,9,Meningococcal-vaccine-status-unknown
+813,9,Family-history-of-migraines
+814,9,Female
+815,9,Photophobia
+816,9,No-known-illness-contacts
+817,9,Subjective-fever
