@@ -38,12 +38,12 @@ Another Dense layer with 64 neurons and relu activation was added to provide an 
 - Dropout Layer (50%): Another dropout layer was added to further prevent overfitting.
 - Output Layer:
 A Dense layer with the number of neurons equal to the number of unique diseases was added, using the softmax activation function to output a probability distribution over the classes.
-## Compiled the Model:
+### Compiled the Model:
 
 - The loss was set to sparse_categorical_crossentropy, which is suitable for integer-labeled multi-class classification.
 - The adam optimizer was chosen, which adjusts the learning rate throughout training.
 - Accuracy was set as the metric to evaluate the model’s performance.
-## Trained the Model:
+### Trained the Model:
 
 The model was trained using the fit method with training data (X_train, y_train), specifying the number of epochs, batch size, and validation data (X_test, y_test).
 The model trained over multiple epochs, adjusting weights to minimize the loss.
