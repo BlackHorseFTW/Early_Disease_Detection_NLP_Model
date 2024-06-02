@@ -76,18 +76,22 @@ Input: "Patient has itching, skin rash, nodal skin eruptions, and dischromic pat
 
 - Predicted Disease: Fungal infection
 - Confidence: 0.92
+
 Input: "The patient reports constant back pain and weakness in their limbs. They also experience neck pain, dizziness, and a loss of balance. Alongside these symptoms, they have noticed stiffness in their neck and pain during bowel movements."
 
 - Predicted Disease: Cervical spondylosis
 - Confidence: 0.78
+
 Input: "The patient has a persistent cough, high fever, and breathlessness. They also report chest pain and fatigue. Additionally, they have noticed phlegm and sweating, along with a loss of appetite and chills."
 
 - Predicted Disease: Pneumonia
 - Confidence: 0.85
+  
 Input: "The patient complains of muscle weakness, joint pain, and fatigue. They also have a skin rash and small dents in their nails. Recently, they have been experiencing weight gain, mood swings, and a constant feeling of hunger."
 
 - Predicted Disease: Hypothyroidism
 - Confidence: 0.81
+  
 These examples illustrate how the model processes symptom descriptions to predict diseases and provides a confidence score to indicate the reliability of each prediction.
 
 ## Conclusion
