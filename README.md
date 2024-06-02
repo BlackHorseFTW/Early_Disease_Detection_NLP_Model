@@ -7,7 +7,7 @@
 - Param Shah
 
 
-## Demo Picture: 
+## Demo Picture:  
 
 ![image](https://github.com/BlackHorseFTW/Early_Disease_Detection_NLP_Model/assets/92382507/257ef9e6-c930-44ef-84be-6804279d59c5)
 
