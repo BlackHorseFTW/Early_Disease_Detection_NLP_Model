@@ -26,7 +26,7 @@ The binary columns were populated based on the presence of symptoms in the origi
 - Split Data into Features and Labels: The encoded DataFrame was separated into feature columns (symptoms) and labels (diseases).
 - Split Data into Training and Testing Sets: The data was divided into training and testing subsets (typically 80% for training and 20% for testing).
 
-Defined the Neural Network Model:
+### Defined the Neural Network Model:
 
 - Sequential Model: A linear stack of layers was created.
 
