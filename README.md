@@ -59,6 +59,36 @@ The model was used to predict the disease based on the input symptom vector.
 The predicted disease and the confidence level of the prediction were determined.
 Ran Predictions for Test Inputs: Iterated through test inputs, predicted diseases, and printed the results with confidence levels.
 ## Results
+The model predicts diseases based on the symptoms provided in the input text. Here's an explanation of the output and what it represents:
+
+### Input Text:
+
+This is the description of symptoms provided by the user. The model processes this text to identify relevant symptoms and predict the possible disease.
+### Predicted Disease:
+
+This is the disease that the model predicts based on the symptoms mentioned in the input text. The prediction is made by comparing the input symptoms with patterns learned from the training data.
+### Confidence Score:
+
+The confidence score represents the model's certainty in its prediction. It is a value between 0 and 1, where a higher score indicates greater confidence in the predicted disease.
+For instance, a confidence score of 0.85 means the model is 85% certain that the predicted disease matches the input symptoms.
+## Example Outputs
+Input: "Patient has itching, skin rash, nodal skin eruptions, and dischromic patches."
+
+- Predicted Disease: Fungal infection
+- Confidence: 0.92
+Input: "The patient reports constant back pain and weakness in their limbs. They also experience neck pain, dizziness, and a loss of balance. Alongside these symptoms, they have noticed stiffness in their neck and pain during bowel movements."
+
+- Predicted Disease: Cervical spondylosis
+- Confidence: 0.78
+Input: "The patient has a persistent cough, high fever, and breathlessness. They also report chest pain and fatigue. Additionally, they have noticed phlegm and sweating, along with a loss of appetite and chills."
+
+- Predicted Disease: Pneumonia
+- Confidence: 0.85
+Input: "The patient complains of muscle weakness, joint pain, and fatigue. They also have a skin rash and small dents in their nails. Recently, they have been experiencing weight gain, mood swings, and a constant feeling of hunger."
+
+- Predicted Disease: Hypothyroidism
+- Confidence: 0.81
+These examples illustrate how the model processes symptom descriptions to predict diseases and provides a confidence score to indicate the reliability of each prediction.
 
 ## Conclusion
 
