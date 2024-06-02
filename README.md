@@ -1,8 +1,6 @@
 # Early_Disease_Detection_NLP_Model
 NLP can assist in identifying early signs and symptoms of diseases by analyzing patient descriptions or medical reports, potentially leading to earlier diagnosis and treatment.
 
-## Datasets
-
 ### Kaggle Datasets
 [![Kaggle](https://img.shields.io/badge/Kaggle-Data-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=dataset.csv)
 - **Disease Symptom Description Dataset**: A comprehensive dataset containing descriptions of various diseases and their symptoms.
@@ -23,3 +21,7 @@ NLP can assist in identifying early signs and symptoms of diseases by analyzing 
 ### Educational Videos
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=kk762SkWv4U)
 - **YouTube Video**: An educational video discussing various diseases and their symptoms.
+
+### Blog Posts
+[![UpGrad](https://img.shields.io/badge/UpGrad-Blog-red?style=for-the-badge&logo=upgrad)](https://www.upgrad.com/blog/classification-model-using-artificial-neural-networks/)
+- **UpGrad Blog**: Blog post about classification models using artificial neural networks.
