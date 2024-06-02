@@ -1,6 +1,11 @@
 # Early_Disease_Detection_NLP_Model
 
-By Aryan Toshniwal          Adepu Ashvith           Bhavesh Kumar Raktani           Param Shah
+## By Team 28: 
+- Adepu Ashvith
+- Aryan Toshniwal
+- Bhavesh Kumar Raktani
+- Param Shah
+
 
 ## Demo Picture or Link
 
