@@ -1,6 +1,11 @@
 # Early_Disease_Detection_NLP_Model
 NLP can assist in identifying early signs and symptoms of diseases by analyzing patient descriptions or medical reports, potentially leading to earlier diagnosis and treatment.
 
+Demo Picture or Link
+Problem Statement
+Motivation
+Approach
+
 ### Acknowledgements
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Data-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=dataset.csv)
