@@ -15,17 +15,17 @@ NLP can assist in identifying early signs and symptoms of diseases by analyzing 
 ## Approach
 Approach to Building a Disease Prediction Model
 ## 1. Data Preparation
-Loaded Data: The CSV file containing disease data was read into a Pandas DataFrame.
-Mapped Diseases to Numerical Values: A dictionary was created to map each disease name to a unique numerical value, and the DataFrame was updated accordingly.
-Extracted Unique Symptom Words: All unique symptom words were identified and collected from the symptom columns.
-Encoded Symptoms into Binary Features:
+- Loaded Data: The CSV file containing disease data was read into a Pandas DataFrame.
+- Mapped Diseases to Numerical Values: A dictionary was created to map each disease name to a unique numerical value, and the DataFrame was updated accordingly.
+- Extracted Unique Symptom Words: All unique symptom words were identified and collected from the symptom columns.
+- Encoded Symptoms into Binary Features:
 A new DataFrame was created with binary columns for each unique symptom word.
 The binary columns were populated based on the presence of symptoms in the original data.
-Saved Encoded DataFrame: The transformed DataFrame was stored into a new CSV file.
+- Saved Encoded DataFrame: The transformed DataFrame was stored into a new CSV file.
 ## 2. Model Training
-Split Data into Features and Labels: The encoded DataFrame was separated into feature columns (symptoms) and labels (diseases).
-Split Data into Training and Testing Sets: The data was divided into training and testing subsets (typically 80% for training and 20% for testing).
-Defined the Neural Network Model:
+- Split Data into Features and Labels: The encoded DataFrame was separated into feature columns (symptoms) and labels (diseases).
+- Split Data into Training and Testing Sets: The data was divided into training and testing subsets (typically 80% for training and 20% for testing).
+- Defined the Neural Network Model:
 
 - Sequential Model: A linear stack of layers was created.
 
