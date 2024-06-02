@@ -1,5 +1,6 @@
 # Early_Disease_Detection_NLP_Model
 
+By Aryan Toshniwal          Adepu Ashvith           Bhavesh Kumar Raktani           Param Shah
 
 ## Demo Picture or Link
 
@@ -95,6 +96,7 @@ Input: "The patient complains of muscle weakness, joint pain, and fatigue. They 
 These examples illustrate how the model processes symptom descriptions to predict diseases and provides a confidence score to indicate the reliability of each prediction.
 
 ## Conclusion
+In conclusion, our disease prediction model effectively analyzes input symptoms to predict possible diseases and provides confidence scores to indicate the reliability of each prediction. By leveraging neural network technology and a comprehensive dataset, the model demonstrates promising accuracy in diagnosing various medical conditions. With its user-friendly interface and interpretable outputs, our model offers valuable insights for healthcare professionals and individuals seeking preliminary assessments of their health concerns. As we continue to refine and expand our model's capabilities, we aim to enhance its utility in facilitating early detection and personalized healthcare management
 
 
 ### Acknowledgements
